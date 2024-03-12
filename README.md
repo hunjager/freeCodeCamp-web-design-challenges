@@ -1,1 +1,1 @@
-Some excercises and certificate challenges done on <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design">freeCodeCamp Responsive Web Design Course</a>
+Some excercises and certificate challenges done on <a href="https://www.freecodecamp.org/learn/2022/responsive-web-design">freeCodeCamp Responsive Web Design Course</a> and <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/">freeCodeCamp JavaScript Algorithms and Data Structures (Beta) Course</a>
